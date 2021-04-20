@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>https://zairabibi.io/</link>
+    <link>https://zairabibi-git.github.io/zairabibi/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 19 Apr 2021 13:05:38 +0500</lastBuildDate><atom:link href="https://zairabibi.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Apr 2021 13:05:38 +0500</lastBuildDate><atom:link href="https://zairabibi-git.github.io/zairabibi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Project</title>
-      <link>https://zairabibi.io/my-first-project/</link>
+      <link>https://zairabibi-git.github.io/zairabibi/my-first-project/</link>
       <pubDate>Mon, 19 Apr 2021 13:05:38 +0500</pubDate>
       
-      <guid>https://zairabibi.io/my-first-project/</guid>
+      <guid>https://zairabibi-git.github.io/zairabibi/my-first-project/</guid>
       <description>64-bit OS Our assignment was to build our own 64-bit operating system. Videos for guidance were prvided by the profesor and I followed them to create my OS. The code is similar to the video code, however, I have added comments and descriptions where necessary to show that I understood the code fully and completely.
 Git Repository zairabibi-git/myOS
 Output Image Onto the description:
@@ -21,10 +21,10 @@ Softwares Used  Visual Studio Code as a text editor Docker to build container im
     
     <item>
       <title>My Profile</title>
-      <link>https://zairabibi.io/my-profile/</link>
+      <link>https://zairabibi-git.github.io/zairabibi/my-profile/</link>
       <pubDate>Mon, 19 Apr 2021 13:05:38 +0500</pubDate>
       
-      <guid>https://zairabibi.io/my-profile/</guid>
+      <guid>https://zairabibi-git.github.io/zairabibi/my-profile/</guid>
       <description>Introduction Hi! I&amp;rsquo;m Zaira Bibi, born and raised in Abbottabad. I successfully completed my Matric and Intermedate Education from Army Burn Hall College for Girls, Abbottabad, and am currently doing my Bachelors in Computer Sciences from National University of Science and Technology (NUST), Islamabad. A brief account of my academic career is given below:
    Year Exam Name Marks Percentage     2017 Matric 1005/1050 95.7   2019 FSc 1019/1100 92.</description>
     </item>
